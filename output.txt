@@ -1,0 +1,9 @@
+exampleText.txt output:
+Enter a word: 
+Africa
+The word africa appears 26 times.
+===========================
+exampleText2.txt output:
+Enter a word: 
+Earth
+The word earth appears 8 times.
